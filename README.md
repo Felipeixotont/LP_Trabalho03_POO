@@ -1,4 +1,4 @@
-# Trabalho_3_LP
+# Terceiro Trabalho - Programação Orientada a Objetos
 Terceiro trabalho da disciplina Linguagens de Programação, onde foi implementado paradigma de programação de Orientação a Objetos usando Python.
 
 ## Código da classe Pilha:
